@@ -1,5 +1,5 @@
 <?php
-foreach($_ENV as $key => $val) {
+foreach($_SERVER as $key => $val) {
 	print $key;
 	print $val;
 }
