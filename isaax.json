@@ -1,0 +1,6 @@
+{
+  "description": "php env test",
+  "scripts": {
+     "start": "php test.php"
+    }
+}
