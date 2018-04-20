@@ -1,6 +1,6 @@
 {
   "description": "node.js env test",
   "scripts": {
-     "start": "node test.js"
+     "start": "nodejs test.js"
     }
 }
