@@ -1,6 +1,6 @@
 {
-  "description": "node.js env test",
+  "description": "python3 env test",
   "scripts": {
-     "start": "nodejs test.js"
+     "start": "python3 -u test.py"
     }
 }
