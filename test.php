@@ -1,2 +1,2 @@
 <?php
-var_dump($_SERVER["HOGEHOGE"]);
+var_dump($_SERVER['HOGEHOGE']);
