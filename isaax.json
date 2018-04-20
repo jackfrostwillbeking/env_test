@@ -1,6 +1,6 @@
 {
-  "description": "php env test",
+  "description": "node.js env test",
   "scripts": {
-     "start": "php test.php"
+     "start": "node test.js"
     }
 }
